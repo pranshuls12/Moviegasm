@@ -1,4 +1,10 @@
-# movie-app
+# Moviegasm
+[![Website status](https://img.shields.io/website-up-down-green-red/https/tedxmitsg.netlify.com.svg?label=Website%20status&style=for-the-badge)](https://sleepy-liskov-ff8d55.netlify.app/)
+
+##Tech
+-Vue,
+-JS,
+-firebase
 
 ## Project setup
 ```
@@ -14,6 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
